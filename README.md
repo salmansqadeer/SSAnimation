@@ -3,7 +3,7 @@ SSAnimation
 
 Collection of commonly used sprite and menu animation methods to be used with Cocos2d.
 
-*Methods that are included in this class are:*
+**Methods that are included in this class are: **
 
 * Pulse (Rapid expansion and contraction of a sprite once)
 * Pulse with Amount (allows variation on default Pulse effect)
@@ -15,11 +15,10 @@ Collection of commonly used sprite and menu animation methods to be used with Co
 * Animate Meny from Left (Animates a menu from the Left side of the screen)
 
 
-*Usage:*
+**Usage: **
 * Add SSAnimation.m and SSAnimation.h to your XCode project
 * #include SSAnimation.h
 * Code Example:  
-
 		CCSprite * player = [CCSprite spriteWithFile:@"player.png"];
        	[SSAnimation pulse: player]
 
