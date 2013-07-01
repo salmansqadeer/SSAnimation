@@ -1,9 +1,8 @@
 //
 //  SSAnimation.m
-//  TRI
 //
 //  Created by Salman Suhail on 6/27/12.
-//  Copyright 2012 PerpetuallyBeta. All rights reserved.
+//  PerpetuallyBeta.com
 //
 
 #import "SSAnimation.h"
